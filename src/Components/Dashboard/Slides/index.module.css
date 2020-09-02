@@ -1,0 +1,24 @@
+.menuItem {
+}
+.menu-item-wrapper.active {
+  border: '1px blue solid';
+}
+.menu-item.active {
+  border: 1px green solid;
+}
+
+.scrollMenuArrow {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.mainText {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #666;
+  line-height: 18px;
+  word-break: break-all;
+  max-height: 37px;
+  overflow: hidden;
+  font-weight: 'bold';
+}
