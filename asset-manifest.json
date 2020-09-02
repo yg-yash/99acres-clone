@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/99acres-clone/static/css/main.04a8d146.chunk.css",
+    "main.js": "/99acres-clone/static/js/main.336b82e0.chunk.js",
+    "main.js.map": "/99acres-clone/static/js/main.336b82e0.chunk.js.map",
+    "runtime-main.js": "/99acres-clone/static/js/runtime-main.b68cefcd.js",
+    "runtime-main.js.map": "/99acres-clone/static/js/runtime-main.b68cefcd.js.map",
+    "static/js/2.909da37d.chunk.js": "/99acres-clone/static/js/2.909da37d.chunk.js",
+    "static/js/2.909da37d.chunk.js.map": "/99acres-clone/static/js/2.909da37d.chunk.js.map",
+    "index.html": "/99acres-clone/index.html",
+    "precache-manifest.e9fc19f7328ad9c0cb6ff6ddd44bf7bd.js": "/99acres-clone/precache-manifest.e9fc19f7328ad9c0cb6ff6ddd44bf7bd.js",
+    "service-worker.js": "/99acres-clone/service-worker.js",
+    "static/css/main.04a8d146.chunk.css.map": "/99acres-clone/static/css/main.04a8d146.chunk.css.map",
+    "static/js/2.909da37d.chunk.js.LICENSE.txt": "/99acres-clone/static/js/2.909da37d.chunk.js.LICENSE.txt",
+    "static/media/dashboardImage.jpg": "/99acres-clone/static/media/dashboardImage.fe86c735.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68cefcd.js",
+    "static/js/2.909da37d.chunk.js",
+    "static/css/main.04a8d146.chunk.css",
+    "static/js/main.336b82e0.chunk.js"
+  ]
+}
